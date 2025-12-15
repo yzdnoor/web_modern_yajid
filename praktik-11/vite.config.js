@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/praktik_web_modern/praktik-12/',
+  base: '/web_modern_yajid/praktik-11/',
   plugins: [react()],
 })
